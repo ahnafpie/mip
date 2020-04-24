@@ -1,0 +1,222 @@
+body {
+    background-color: #ffe7e6;
+}
+
+#header {
+    background-color: #ffaaa5;
+}
+
+
+
+@media (max-width: 990px) {
+
+    header,
+    .top {
+        text-align: center;
+    }
+
+    .navbar {
+        padding-bottom: 5%;
+    }
+
+    .f-item {
+        padding: 10px;
+    }
+
+    .link-footer{
+        padding: 0;
+    }
+}
+
+
+.link-footer{
+    padding: 3%;
+}
+
+h1 {
+    color: #ecfbfc;
+}
+
+.color-white {
+    color: #ecfbfc;
+}
+
+.h-text-2 {
+    color: #3c4245;
+}
+
+.h-text {
+    color: #3c4245;
+    font-weight: normal;
+}
+
+.h2-text {
+    color: #5e676b;
+    font-weight: normal;
+    font-size: 1.25rem;
+}
+
+strong {
+    font-size: larger;
+    color: #3c4245;
+}
+
+.height {
+    min-height: 100vh;
+}
+
+.bg-color {
+    background: #ffaaa5;
+}
+
+.portfolio-card {
+    background-color: #fff1f0;
+}
+
+.abouts {
+    box-shadow: 0px 1px 5px #0000006c
+}
+
+.bg {
+    background-color: #ffaaa5;
+}
+
+/* Top-Container */
+.navbar-brand {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.header-image {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.n-color {
+    color: #5f6769;
+}
+
+.n-color:hover {
+    color: #3c4245;
+}
+
+.nav-item {
+    font-size: 1.2rem;
+}
+
+.btn {
+    margin: 10px 5px 0 0;
+}
+
+/* Features */
+.h-text {
+    color: #3c4245;
+    font-weight: normal;
+}
+
+.h2-text {
+    color: #3c4245;
+    font-weight: normal;
+    font-size: 1.25rem;
+}
+
+.f-icon {
+    margin-bottom: 10px;
+    color: #698474
+}
+
+.f-icon:hover {
+    transition: 1s;
+    color: #3c4245;
+}
+
+.feature-image {
+    max-width: 70%;
+    max-height: 70%;
+}
+
+/* /Feature-section */
+/* about-section */
+.about-txt {
+    text-align: justify;
+    font-weight: normal;
+    line-height: 2;
+}
+
+.about {
+    border-radius: 1vh;
+    box-shadow: 1px 1px 5px #4949499a
+}
+
+.carousel-indicators .active {
+    background-color: #222222c5
+}
+
+.carousel-indicators li {
+    background-color: #22222263
+}
+
+/* /About-Section */
+/* Team-member */
+.team-image {
+    border-radius: 100%;
+    width: 50%;
+}
+
+.member-style {
+    background-color: #f1d3d2;
+    box-shadow: 1px 1px 5px #0000006c
+}
+
+/* /Team-member */
+/* Filler */
+#filler {
+    min-height: 50vh;
+    background: linear-gradient(#0000004d, #00000063), url(Images/Linth.png)center/cover no-repeat fixed;
+}
+
+.filler-container {
+    min-height: 50vh;
+}
+
+/* /Filler */
+/* Blog */
+/* item-1 */
+.blog-1 {
+    background: linear-gradient(#0000004d, #00000063), url(Images/b-1.jpg)top/cover no-repeat;
+    height: 60%;
+    box-shadow: 1px 1px 5px #0000006c
+}
+
+.link-blog {
+    color: ivory;
+}
+
+.link-blog:hover {
+    color: ivory;
+}
+
+/* /item-1 */
+.row2-item {
+    box-shadow: 1px 1px 5px #0000006c;
+}
+
+.r2b {
+    width: 40%;
+}
+
+/* .link-footer */
+.link-footer:hover{
+    transition: 1s;
+    color: #222425;
+    text-decoration: none;
+}
+
+.footer-icons{
+    color: #3c4245;
+}
+
+.footer-icons:hover{
+    transition: 1s;
+    color: #222425;
+}
